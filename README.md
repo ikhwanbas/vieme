@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Vieme Application</h1>
 <h3 align="center">Vieme is a Movie and Game Review Application</h3>
-<h3 align="center">You can see published page at <a href=" https://vieme.netlify.app/">Vieme Application</a> </h3>
+<h4 align="center">You can see published page at <a href="https://vieme.netlify.app/">https://vieme.netlify.app/</a> </h4>
 
 <hr/>
 <br/>
