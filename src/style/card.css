@@ -1,0 +1,17 @@
+.head-title {
+	margin-left: 5%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.movie-game-card {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0% auto 0% 4.5%;
+	align-items: flex-start;
+}
+
+.each-card {
+	margin-bottom: 3%;
+	flex: 1 1 21%;
+	margin: 1%;
+}
